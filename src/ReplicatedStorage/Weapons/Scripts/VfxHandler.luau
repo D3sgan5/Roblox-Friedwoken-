@@ -1,0 +1,3 @@
+local VfxHandler = {}
+
+return VfxHandler
